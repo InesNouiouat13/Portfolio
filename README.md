@@ -4,16 +4,14 @@ Welcome to my portfolio repository! This collection contains links to video demo
 
 ---
 
-## Projects
-
-### 1. [Cosparck Company's Official Web Application](https://www.cosparck.com/)
+## 1. [Cosparck Company's Official Web Application](https://www.cosparck.com/)
 This was the first project I built after recently graduating with a master's degree. The website serves as the official online presence for Cosparck.
 
 - **Tech Stack:** HTML, CSS, Bootstrap, PHP
 
-#### Project Overview:
+### Project Overview:
 
-##### Client side
+#### Client side
 The web application features a fully responsive layout, a user-friendly interface, and backend functionality that supports dynamic content. It is built to cater to the needs of the company, allowing users to interact with various features such as:
 
 - **Form Submissions**: Users can submit various forms through the website.
@@ -22,7 +20,7 @@ The web application features a fully responsive layout, a user-friendly interfac
 - **Ticket Submission**: A critical feature that allows users to submit support tickets for assistance. This system was designed and built entirely by me.
 
 
-##### Admin Panel: Solutions for Support & Marketing Teams
+#### Admin Panel: Solutions for Support & Marketing Teams
 In addition to the public-facing website, I developed an **admin panel** (not shown in this repository) that helps streamline customer support and marketing operations.
 
 - **Support Team:** The admin panel allows the support team to efficiently manage and track client support tickets, enabling fast responses and better service.
@@ -35,7 +33,7 @@ Although the marketing team was originally meant to handle this, I took full own
 --
 
 
-## How to Navigate
+# How to Navigate
 
 Click on the project names above to access the video demonstrations. Each link leads to a separate page showcasing the functionality of the system. Please note that these systems are not available for public use but are shared here for demonstration purposes only.
 
