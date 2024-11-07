@@ -32,9 +32,22 @@ Although the marketing team was originally meant to handle this, I took full own
 
 --
 
+## 2. [B2B Online Optic Shop](https://www.cosparck.com/domain?e=82)
 
-# How to Navigate
+This was the second project I developed for the company I work for. The solution serves as an online B2B platform connecting opticians with the factory, allowing them to place orders and manage transactions.
 
-Click on the project names above to access the video demonstrations. Each link leads to a separate page showcasing the functionality of the system. Please note that these systems are not available for public use but are shared here for demonstration purposes only.
+The key requirement from the factory was to receive online orders from opticians and seamlessly relay those orders to the company’s ERP system. I was solely responsible for developing and implementing this solution.
 
+This project marked the point where I started gaining hands-on experience with **JavaScript**, and it played a significant role in enhancing my full-stack development skills.
 
+- **Tech Stack:** HTML, CSS, Bootstrap, Node.js, Express, jQuery, JavaScript, MySQL
+
+#### Project Overview:
+- The platform allows opticians to browse products and place orders directly through the online portal.
+- The system processes orders and ensures that they are correctly relayed to the company's ERP system for further processing.
+- I worked on both the frontend and backend, handling everything from the user interface to the integration with the ERP system.
+
+#### My Role:
+- Developed and maintained the entire solution from the ground up, focusing on both user-facing features and backend functionality.
+- Integrated order processing with the company's ERP system, ensuring seamless order flow.
+- This project greatly expanded my experience with JavaScript and web development frameworks, particularly in a full-stack environment.
