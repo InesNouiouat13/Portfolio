@@ -42,12 +42,65 @@ This project was also where I started to build a deeper understanding of **JavaS
 
 - **Tech Stack:** HTML, CSS, Bootstrap, Node.js, Express, jQuery, JavaScript, MySQL
 
-#### Project Overview:
+### Project Overview:
 - The platform allows opticians to browse and place orders for products directly through the online shop.
 - The system processes orders and transmits them to the company's ERP system for inventory and order management.
 - It was developed as a collaborative effort, where I worked closely with other developers to implement key features, optimize performance, and ensure seamless integration with the backend.
 
-#### My Role:
+### My Role:
 - **Team Contribution:** As part of a cross-functional development team, I contributed to both the frontend and backend development. I worked alongside other developers, collaborating on the user interface and the backend logic for order processing.
 - **Key Responsibilities:** My primary responsibility was developing the integration between the online shop and the ERP system, ensuring that orders were processed correctly and efficiently.
 - **Skills Gained:** This project significantly enhanced my experience with JavaScript, Node.js, and database integration. It was an important step in my development as a full-stack developer.
+
+--
+
+
+## 3. [E-commerce B2B Online Shop](https://www.cosparck.com/domain?e=85)
+
+This project followed the development of the **B2B Online Optic Shop** but is designed for a broader range of products. While the optic project was more specialized, this e-commerce platform features a more generalized product catalog that can serve the diverse needs of a wider range of clients. Like the previous project, this solution connects **B2B clients** (in this case, shops or retailers) with the factory, enabling them to place orders and manage transactions online.
+
+The project is still in progress and has not yet been released, as the integration with the company's ERP system is still being finalized.
+
+- **Tech Stack:** HTML, CSS, Bootstrap, Node.js, Express, jQuery, JavaScript, MySQL
+
+### Project Overview:
+- The platform allows **stores** (magazines/retailers) to browse products and place orders directly through the online shop to their respective factories.
+- The system processes orders and is designed to transmit them to the company's ERP system for inventory and order management. This will ensure smooth processing once the ERP integration is complete.
+- The project is currently under development, with some features and integrations still in progress.
+
+### My Role:
+- **Independent Development:** Unlike the previous project, this was developed primarily by me, and I was responsible for managing both the frontend and backend of the platform.
+- **Key Responsibilities:** My main task was building the entire platform, from creating the user interface to implementing backend logic and preparing for future ERP integration.
+- **Skills Gained:** This project further strengthened my expertise in **JavaScript**, **Node.js**, and **database management** with **MySQL**. It also gave me a deeper understanding of **e-commerce systems** and handling product catalogues, orders, and transactions in a business-to-business context.
+
+
+---
+
+
+## 4. [Medical Office Management System](https://www.cosparck.com/domain?e=81)
+
+This project was a turning point in my career, marking the transition from a Web Developer to a Software Engineer. Although I continued to work with web technologies, the scale and complexity of this project pushed me to develop a more structured approach to system design and development. It provided an invaluable opportunity to communicate directly with a wide range of doctors, gaining deep insights into user needs and behaviors. This user feedback played a critical role in shaping the platform's architecture and database design, allowing me to build a more efficient, well-structured solution.
+
+### Project Overview: 
+- The platform provides doctors with a comprehensive dashboard that enables them to track and manage patient treatment plans, including a detailed history of prescribed medications and lab results.
+- The system ensures privacy and traceability by securely recording all interactions between doctors and patients, maintaining confidentiality and compliance within the office environment.
+- It also features an advanced appointment scheduling system, allowing for efficient management of patient appointments and ensuring smooth coordination between doctors and patients.
+
+### My Role:
+
+- **Independent Development:** I was the lead developer for this project, responsible for both the **front-end** and **back-end** development. I designed and implemented key features of the system, including the patient management dashboard, appointment scheduling, and secure data handling. 
+   
+- **Key Responsibilities:**
+  - **System Architecture & Design:** Worked closely with stakeholders (doctors and clinic staff) to define system requirements and ensure the platform met user needs. I structured the database and designed the backend to support secure data storage and retrieval.
+  - **UI/UX Design:** Led the development of the user interface, focusing on creating an intuitive, user-friendly dashboard for doctors. I ensured the design was both functional and easy to navigate, providing doctors with quick access to patient treatment histories, lab results, and appointment scheduling.
+  - **Appointment Scheduling System:** Designed and implemented a sophisticated **appointment scheduling system**, allowing doctors to manage and organize patient appointments with ease. This feature improved office efficiency and reduced scheduling conflicts.
+  - **Security & Privacy:** Ensured compliance with data privacy regulations by implementing secure authentication and authorization mechanisms. The system tracks all patient-doctor interactions to ensure full traceability while maintaining confidentiality.
+  - **Client Communication & Feedback Integration:** Actively communicated with doctors and office staff throughout the project to gather feedback, which helped shape system features and ensure the platform met real-world needs.
+
+- **Skills Gained:** 
+  - Gained significant experience in **system architecture and design**, especially in the context of healthcare management software.
+  - Developed advanced **database management skills**, optimizing database structure for high availability and secure access.
+  - Enhanced my expertise in **UI/UX design**, ensuring the platform was both functional and user-friendly.
+  - Gained hands-on experience with **security protocols**, ensuring sensitive patient data was protected according to industry standards.
+  - Sharpened my **communication skills** by interacting directly with users (doctors and medical staff), learning how to translate their needs into technical solutions.
+
