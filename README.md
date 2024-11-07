@@ -34,20 +34,20 @@ Although the marketing team was originally meant to handle this, I took full own
 
 ## 2. [B2B Online Optic Shop](https://www.cosparck.com/domain?e=82)
 
-This was the second project I developed for the company I work for. The solution serves as an online B2B platform connecting opticians with the factory, allowing them to place orders and manage transactions.
+This was the second project I developed for the company I work for. The solution is an online **B2B platform** connecting opticians with the factory, enabling them to place orders and manage transactions seamlessly.
 
-The key requirement from the factory was to receive online orders from opticians and seamlessly relay those orders to the company’s ERP system. I was solely responsible for developing and implementing this solution.
+The main requirement from the factory was to receive online orders from opticians and relay them to the company’s ERP system. As part of a collaborative team, I was responsible for developing the core functionality that integrated these orders with the ERP, ensuring that the process was smooth and automated. 
 
-This project marked the point where I started gaining hands-on experience with **JavaScript**, and it played a significant role in enhancing my full-stack development skills.
+This project was also where I started to build a deeper understanding of **JavaScript** and expand my skills in full-stack web development.
 
 - **Tech Stack:** HTML, CSS, Bootstrap, Node.js, Express, jQuery, JavaScript, MySQL
 
 #### Project Overview:
-- The platform allows opticians to browse products and place orders directly through the online portal.
-- The system processes orders and ensures that they are correctly relayed to the company's ERP system for further processing.
-- I worked on both the frontend and backend, handling everything from the user interface to the integration with the ERP system.
+- The platform allows opticians to browse and place orders for products directly through the online shop.
+- The system processes orders and transmits them to the company's ERP system for inventory and order management.
+- It was developed as a collaborative effort, where I worked closely with other developers to implement key features, optimize performance, and ensure seamless integration with the backend.
 
 #### My Role:
-- Developed and maintained the entire solution from the ground up, focusing on both user-facing features and backend functionality.
-- Integrated order processing with the company's ERP system, ensuring seamless order flow.
-- This project greatly expanded my experience with JavaScript and web development frameworks, particularly in a full-stack environment.
+- **Team Contribution:** As part of a cross-functional development team, I contributed to both the frontend and backend development. I worked alongside other developers, collaborating on the user interface and the backend logic for order processing.
+- **Key Responsibilities:** My primary responsibility was developing the integration between the online shop and the ERP system, ensuring that orders were processed correctly and efficiently.
+- **Skills Gained:** This project significantly enhanced my experience with JavaScript, Node.js, and database integration. It was an important step in my development as a full-stack developer.
