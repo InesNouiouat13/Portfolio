@@ -4,7 +4,19 @@ Welcome to my portfolio repository! This collection contains links to video demo
 
 ---
 
-## 1. [Cosparck Company's Official Web Application](https://www.cosparck.com/)
+## 1. [Laboratory Management System](https://www.cosparck.com/domain?e=42)
+
+This project involved one of the most complex areas I’ve worked on. The client’s requirements were initially unclear, so I had to conduct extensive independent research to understand the workflow of the system. This included everything from collecting sample data and configuring the analysis parameters to automating result generation and integrating the system with laboratory machines. It was a challenging process, but it ultimately allowed me to design a solution that met the client’s needs and streamlined the workflow.
+
+### Key Improvements:
+- Clarity & Flow: The sentences are now clearer and flow more naturally, improving readability.
+- Detailing the Process: Instead of simply listing tasks, I've broken down the workflow into logical steps ("collecting sample data", "configuring analysis parameters", etc.) to make it easier to understand.
+- Polishing Tone: The tone is now more professional and direct, which is appropriate for a technical context.
+
+
+---
+
+## 2. [Cosparck Company's Official Web Application](https://www.cosparck.com/)
 This was the first project I built after recently graduating with a master's degree. The website serves as the official online presence for Cosparck.
 
 - **Tech Stack:** HTML, CSS, Bootstrap, PHP
@@ -32,7 +44,7 @@ Although the marketing team was originally meant to handle this, I took full own
 
 --
 
-## 2. [B2B Online Optic Shop](https://www.cosparck.com/domain?e=82)
+## 3. [B2B Online Optic Shop](https://www.cosparck.com/domain?e=82)
 
 This was the second project I developed for the company I work for. The solution is an online **B2B platform** connecting opticians with the factory, enabling them to place orders and manage transactions seamlessly.
 
@@ -55,7 +67,7 @@ This project was also where I started to build a deeper understanding of **JavaS
 --
 
 
-## 3. [E-commerce B2B Online Shop](https://www.cosparck.com/domain?e=85)
+## 4. [E-commerce B2B Online Shop](https://www.cosparck.com/domain?e=85)
 
 This project followed the development of the **B2B Online Optic Shop** but is designed for a broader range of products. While the optic project was more specialized, this e-commerce platform features a more generalized product catalog that can serve the diverse needs of a wider range of clients. Like the previous project, this solution connects **B2B clients** (in this case, shops or retailers) with the factory, enabling them to place orders and manage transactions online.
 
@@ -77,7 +89,7 @@ The project is still in progress and has not yet been released, as the integrati
 ---
 
 
-## 4. [Medical Office Management System](https://www.cosparck.com/domain?e=81)
+## 5. [Medical Office Management System](https://www.cosparck.com/domain?e=81)
 
 This project was a turning point in my career, marking the transition from a Web Developer to a Software Engineer. Although I continued to work with web technologies, the scale and complexity of this project pushed me to develop a more structured approach to system design and development. It provided an invaluable opportunity to communicate directly with a wide range of doctors, gaining deep insights into user needs and behaviors. This user feedback played a critical role in shaping the platform's architecture and database design, allowing me to build a more efficient, well-structured solution.
 
