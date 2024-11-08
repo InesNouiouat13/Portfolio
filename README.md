@@ -1,6 +1,7 @@
 # Portfolio
 
-Welcome to my portfolio repository! This collection contains links to video demonstrations of various functional systems I have developed. These projects, such as a clinic management system, cannot be shared publicly. However, the videos provide an overview of each system's functionality and key features.
+Welcome to my portfolio repository! This collection includes links to a variety of projects I have developed. Some projects, such as internal systems like the clinic management system, are not available for public sharing, but they feature video demonstrations that provide an overview of their functionality and key features. Other projects, such as published websites, offer direct access to the live systems so you can explore them in action.
+
 
 ---
 
@@ -116,3 +117,25 @@ This project was a turning point in my career, marking the transition from a Web
   - Gained hands-on experience with **security protocols**, ensuring sensitive patient data was protected according to industry standards.
   - Sharpened my **communication skills** by interacting directly with users (doctors and medical staff), learning how to translate their needs into technical solutions.
 
+
+---
+
+## 6. [Clinic Management System](https://www.cosparck.com/domain?e=84)
+
+This system is designed for the backend management of clinics, overseeing key administrative functions such as finance, services, and HR. It integrates various systems—including laboratory management and medical office systems—into a centralized platform. This approach not only streamlines operations across different departments but also scales seamlessly to accommodate larger hospital management systems, optimizing efficiency across the entire organization.
+
+In order to ensure smooth integration across all healthcare sectors, I implemented a robust system architecture that could adapt to the diverse needs of different clinics, each with its own set of policies and workflows.
+
+###Key Improvements:
+- Clarity of Purpose: The description clearly defines the system's purpose—centralizing backend management for clinics and integrating various administrative functions.
+- Streamlined Integration: Emphasized the integration of multiple systems (e.g., lab and medical office) into one cohesive platform, ensuring greater efficiency and control.
+- Scalability: Highlighted the system's scalability, making it suitable for both small clinics and larger hospital management environments.
+
+
+---
+
+
+## 7. [A Platform Where to upload patient's laboratory results with automatical generated QR code](https://www.cosparck.com/coslab)
+## 8. [Cosparck Feedback Solution with three diffrent languages using Javascript & PHP](https://www.cosparck.com/feedback)
+## 9. [Website for a dentist](https://www.derardja-dentiste.com/)
+## 10. [Website for a locksmith in France](https://toulouse-serrurier.fr/)
