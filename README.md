@@ -179,7 +179,7 @@ A fully responsive website developed for a dentist’s clinic, featuring essenti
 
 This website was developed for a locksmith business in Toulouse, France. It provides information about the services offered.
 
-- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+- **Tech Stack:** HTML, CSS, Bootstrap
 
 ### Key Features:
 - **Service Overview** showcasing locksmith offerings
