@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - My projects
 
 Welcome to my portfolio repository! This collection includes links to a variety of projects I have developed. Some projects, such as internal systems like the clinic management system, are not available for public sharing, but they feature video demonstrations that provide an overview of their functionality and key features. Other projects, such as published websites, offer direct access to the live systems so you can explore them in action.
 
