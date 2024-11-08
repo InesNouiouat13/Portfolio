@@ -126,7 +126,7 @@ This system is designed for the backend management of clinics, overseeing key ad
 
 In order to ensure smooth integration across all healthcare sectors, I implemented a robust system architecture that could adapt to the diverse needs of different clinics, each with its own set of policies and workflows.
 
-###Key Improvements:
+##Key Improvements:
 - Clarity of Purpose: The description clearly defines the system's purpose—centralizing backend management for clinics and integrating various administrative functions.
 - Streamlined Integration: Emphasized the integration of multiple systems (e.g., lab and medical office) into one cohesive platform, ensuring greater efficiency and control.
 - Scalability: Highlighted the system's scalability, making it suitable for both small clinics and larger hospital management environments.
@@ -134,8 +134,57 @@ In order to ensure smooth integration across all healthcare sectors, I implement
 
 ---
 
+## 7. [A Platform to Upload Patient's Laboratory Results with Automatically Generated QR Code](https://www.cosparck.com/coslab)
 
-## 7. [A Platform Where to upload patient's laboratory results with automatical generated QR code](https://www.cosparck.com/coslab)
-## 8. [Cosparck Feedback Solution with three diffrent languages using Javascript & PHP](https://www.cosparck.com/feedback)
-## 9. [Website for a dentist](https://www.derardja-dentiste.com/)
-## 10. [Website for a locksmith in France](https://toulouse-serrurier.fr/)
+This platform allows healthcare professionals to securely upload **patient laboratory results** and automatically generate a **QR code** for each result. The QR code provides patients and healthcare providers with quick access to the results through scanning, ensuring privacy and convenience.
+
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+### Key Features:
+- **Secure Uploading** of laboratory results
+- **Automatic QR Code Generation** for easy access
+- **Quick Access** to results via QR code scanning
+- **User-friendly Interface** designed for healthcare professionals and patients
+
+---
+
+## 8. [Cosparck Feedback Solution with Three Different Languages Using JavaScript & PHP](https://www.cosparck.com/feedback)
+
+This solution provides a multi-language feedback platform supporting three different languages. It allows users to submit feedback seamlessly, with an intuitive interface and real-time submission capabilities.
+
+- **Tech Stack:** JavaScript, PHP, MySQL
+
+### Key Features:
+- **Three Language Support** for accessibility across different regions
+- **Real-time Feedback Submission** system
+- **Customizable Interface** for integration into any web application
+- **Database-backed** for storing and managing feedback
+
+---
+
+## 9. [Website for a Dentist](https://www.derardja-dentiste.com/)
+
+A fully responsive website developed for a dentist’s clinic, featuring essential information about the clinic, services, team, and an appointment scheduling system for patients. This platform enables patients to book appointments easily and stay in touch with the clinic.
+
+- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, PHP, Google Sheets
+
+### Key Features:
+- **Responsive Design** that adapts to all devices
+- **Appointment Booking** system for patient scheduling
+- **Showcase of Services** and dental treatments
+  
+---
+
+## 10. [Website for a Locksmith in France](https://toulouse-serrurier.fr/)
+
+This website was developed for a locksmith business in Toulouse, France. It provides information about the services offered.
+
+- **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
+
+### Key Features:
+- **Service Overview** showcasing locksmith offerings
+- **Google Maps Integration** to find the locksmith's location
+
+---
+
+
