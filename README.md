@@ -14,6 +14,13 @@ This project involved one of the most complex areas I’ve worked on. The client
 - Detailing the Process: Instead of simply listing tasks, I've broken down the workflow into logical steps ("collecting sample data", "configuring analysis parameters", etc.) to make it easier to understand.
 - Polishing Tone: The tone is now more professional and direct, which is appropriate for a technical context.
 
+### Project Overview
+This project was primarily built with JavaScript, with the following tools used to support the full-stack development:
+- Html5, CSS3, Bootswatch, Bootstrap
+- Ajax, Javascript, jQuery
+- Node.js, Express.js, Electron
+- Mysql (CRUD, Functions, Stored Procedures, Triggers)
+
 
 ---
 
