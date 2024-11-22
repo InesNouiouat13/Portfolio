@@ -155,17 +155,19 @@ This platform allows healthcare professionals to securely upload **patient labor
 
 ---
 
-## 8. [Cosparck Feedback Solution with Three Different Languages Using JavaScript & PHP](https://www.cosparck.com/feedback)
+## [Cosparck Feedback Solution with Three Different Languages](https://www.cosparck.com/feedback)
 
-This solution provides a multi-language feedback platform supporting three different languages. It allows users to submit feedback seamlessly, with an intuitive interface and real-time submission capabilities.
+This solution provides a multi-language feedback platform supporting three different languages. Built with Bootstrap, jQuery, JavaScript, and AJAX, it delivers a responsive, real-time single-page application (SPA) experience. The intuitive interface allows users to submit feedback seamlessly, with PHP and MySQL powering the backend for efficient database management and integration.
 
-- **Tech Stack:** JavaScript, PHP, MySQL
+### Tech Stack
+- **Frontend:** Bootstrap, jQuery, JavaScript, AJAX  
+- **Backend:** PHP, MySQL  
 
-### Key Features:
-- **Three Language Support** for accessibility across different regions
-- **Real-time Feedback Submission** system
-- **Customizable Interface** for integration into any web application
-- **Database-backed** for storing and managing feedback
+### Key Features
+- **Three Language Support** for accessibility across different regions  
+- **Real-time Feedback Submission** system with AJAX for SPA functionality  
+- **Customizable Interface** for easy integration into any web application  
+- **Database-backed** for storing and managing feedback efficiently  
 
 ---
 
